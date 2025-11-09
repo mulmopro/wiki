@@ -1,4 +1,7 @@
-# just-the-docs-template
+# Mulmo Wiki Draft
+
+This webiste was built using the [Just the Docs] theme for [Jekyll]. It is intended to serve as a wiki for the research group Mulmopro at POLITO.
+____________________________
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
